@@ -138,18 +138,21 @@
         <location filename="../src/QSimpleUpdater/src/Downloader.cpp" line="328"/>
         <location filename="../src/QSimpleUpdater/src/Downloader.cpp" line="337"/>
         <source>%1 bytes</source>
-        <translation>%1 字节</translation>
+		<translatorcomment>存储单位不需要翻译</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/QSimpleUpdater/src/Downloader.cpp" line="331"/>
         <location filename="../src/QSimpleUpdater/src/Downloader.cpp" line="340"/>
         <source>%1 KB</source>
+		<translatorcomment>存储单位不需要翻译</translatorcomment>
         <translation></translation>
     </message>
     <message>
         <location filename="../src/QSimpleUpdater/src/Downloader.cpp" line="334"/>
         <location filename="../src/QSimpleUpdater/src/Downloader.cpp" line="343"/>
         <source>%1 MB</source>
+		<translatorcomment>存储单位不需要翻译</translatorcomment>
         <translation></translation>
     </message>
     <message>
@@ -228,26 +231,31 @@
     <message>
         <location filename="../src/NotepadNext/widgets/EditorInfoStatusBar.cpp" line="137"/>
         <source>Macintosh (CR)</source>
+		<translatorcomment>文件换行符不需要翻译</translatorcomment>
         <translation></translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/widgets/EditorInfoStatusBar.cpp" line="140"/>
         <source>Windows (CR LF)</source>
+		<translatorcomment>文件换行符不需要翻译</translatorcomment>
         <translation></translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/widgets/EditorInfoStatusBar.cpp" line="143"/>
         <source>Unix (LF)</source>
+		<translatorcomment>文件换行符不需要翻译</translatorcomment>
         <translation></translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/widgets/EditorInfoStatusBar.cpp" line="152"/>
         <source>ANSI</source>
+		<translatorcomment>编码类型不需要翻译</translatorcomment>
         <translation></translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/widgets/EditorInfoStatusBar.cpp" line="155"/>
         <source>UTF-8</source>
+		<translatorcomment>编码类型不需要翻译</translatorcomment>
         <translation></translation>
     </message>
 </context>
@@ -1480,7 +1488,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1172"/>
         <source>Next Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下一个选项卡</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1175"/>
@@ -1490,7 +1498,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1183"/>
         <source>Previous Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上一个选项卡</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1186"/>
@@ -1500,7 +1508,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1194"/>
         <source>Fold Level 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠级别1</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1197"/>
@@ -1510,7 +1518,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1202"/>
         <source>Fold Level 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠级别2</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1205"/>
@@ -1520,7 +1528,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1210"/>
         <source>Fold Level 3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠级别3</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1213"/>
@@ -1530,7 +1538,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1218"/>
         <source>Fold Level 4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠级别4</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1221"/>
@@ -1540,7 +1548,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1226"/>
         <source>Unfold Level 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开级别1</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1229"/>
@@ -1550,7 +1558,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1234"/>
         <source>Unfold Level 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开级别2</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1237"/>
@@ -1560,7 +1568,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1242"/>
         <source>Unfold Level 3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开级别3</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1245"/>
@@ -1570,7 +1578,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1250"/>
         <source>Unfold Level 4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开级别4</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1253"/>
@@ -1580,7 +1588,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1258"/>
         <source>Fold All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部折叠</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1261"/>
@@ -1590,7 +1598,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1266"/>
         <source>Unfold All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部展开</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1269"/>
@@ -1600,7 +1608,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1274"/>
         <source>Fold Level 5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠级别5</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1277"/>
@@ -1610,7 +1618,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1282"/>
         <source>Fold Level 6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠级别6</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1285"/>
@@ -1620,7 +1628,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1290"/>
         <source>Fold Level 7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠级别7</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1293"/>
@@ -1630,7 +1638,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1298"/>
         <source>Fold Level 8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠级别8</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1301"/>
@@ -1640,7 +1648,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1306"/>
         <source>Fold Level 9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠级别9</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1309"/>
@@ -1650,7 +1658,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1314"/>
         <source>Unfold Level 5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开级别5</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1317"/>
@@ -1660,7 +1668,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1322"/>
         <source>Unfold Level 6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开级别6</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1325"/>
@@ -1670,7 +1678,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1330"/>
         <source>Unfold Level 7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开级别7</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1333"/>
@@ -1680,7 +1688,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1338"/>
         <source>Unfold Level 8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开级别8</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1341"/>
@@ -1690,7 +1698,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1346"/>
         <source>Unfold Level 9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开级别9</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="1349"/>
@@ -2029,7 +2037,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1724"/>
         <source>Zoom: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">缩放：%1%</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1864"/>
@@ -2047,52 +2055,52 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="22"/>
         <source>Show menu bar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示菜单栏</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="29"/>
         <source>Show toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示工具栏</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="36"/>
         <source>Show status bar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示状态栏</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="43"/>
         <source>Restore previous session</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">恢复上一个会话</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="62"/>
         <source>Temporary files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">临时文件</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="92"/>
         <source>Translation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">语言:</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="101"/>
         <source>Exit on last tab closed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在最后一个选项卡关闭时退出</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="110"/>
         <source>Default Font</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认字体</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="116"/>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">字体</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="126"/>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">字体大小</translation>
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="133"/>
@@ -2107,7 +2115,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.ui" line="191"/>
         <source>An application restart is required to apply certain settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">需要重新启动应用程序才能应用某些设置。</translation>
     </message>
     <message>
         <source>Menu Bar</source>
@@ -2152,7 +2160,7 @@
     <message>
         <location filename="../src/NotepadNext/dialogs/PreferencesDialog.cpp" line="120"/>
         <source>&lt;System Default&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;系统默认&gt;</translation>
     </message>
 </context>
 <context>
@@ -2170,7 +2178,7 @@
     <message>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="228"/>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">减少</translation>
     </message>
     <message>
         <source>Close Active Tab</source>
@@ -2309,32 +2317,32 @@
     <message>
         <location filename="../src/ads/src/AutoHideTab.cpp" line="389"/>
         <source>Pin To...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">固定到...</translation>
     </message>
     <message>
         <location filename="../src/ads/src/AutoHideTab.cpp" line="391"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">顶端</translation>
     </message>
     <message>
         <location filename="../src/ads/src/AutoHideTab.cpp" line="392"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">左边</translation>
     </message>
     <message>
         <location filename="../src/ads/src/AutoHideTab.cpp" line="393"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">右边</translation>
     </message>
     <message>
         <location filename="../src/ads/src/AutoHideTab.cpp" line="394"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">底部</translation>
     </message>
     <message>
         <location filename="../src/ads/src/AutoHideTab.cpp" line="396"/>
         <source>Unpin (Dock)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开(Dock)</translation>
     </message>
     <message>
         <location filename="../src/ads/src/AutoHideTab.cpp" line="398"/>
@@ -2358,44 +2366,44 @@
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="754"/>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="811"/>
         <source>Unpin (Dock)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开(Dock)</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="754"/>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="816"/>
         <source>Pin Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">引脚组</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="760"/>
         <source>Pin Group To...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将组固定到...</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="762"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">顶端</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="763"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">左边</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="764"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">右边</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="765"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">底部</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="773"/>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="828"/>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">减少</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="774"/>
@@ -2418,7 +2426,7 @@
     <message>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="820"/>
         <source>Pin Active Tab (Press Ctrl to Pin Group)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">固定活动选项卡(按Ctrl键固定组)</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockAreaTitleBar.cpp" line="833"/>
@@ -2444,32 +2452,32 @@
     <message>
         <location filename="../src/ads/src/DockWidgetTab.cpp" line="548"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">固定</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockWidgetTab.cpp" line="552"/>
         <source>Pin To...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">固定到...</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockWidgetTab.cpp" line="554"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">顶端</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockWidgetTab.cpp" line="555"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">左边</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockWidgetTab.cpp" line="556"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">右边</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockWidgetTab.cpp" line="557"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">底部</translation>
     </message>
     <message>
         <location filename="../src/ads/src/DockWidgetTab.cpp" line="562"/>
